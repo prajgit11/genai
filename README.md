@@ -6,3 +6,6 @@ LectureSummarizer is an AI-powered tool that transcribes and summarizes lectures
 - install requirements.txt file: pip install -r requirements.txt
 - update the code by creating llama2 creadintial online for free: go to 'https://llama.meta.com/llama2/' create a credintal key.
 - run the project : python main.py
+
+# Screenshots:
+![Screenshot of the project](screenshot.png)
